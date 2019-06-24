@@ -1,0 +1,9 @@
+com\packt\testproject\PropertyValues.class
+com\packt\testproject\pages\HomePage.class
+com\packt\testproject\pages\SectorsPage.class
+com\packt\testproject\tests\HomePageTests.class
+com\packt\testproject\pages\NewsPage.class
+com\packt\testproject\tests\BaseTest.class
+com\packt\testproject\Browser.class
+com\packt\testproject\pages\Pages.class
+com\packt\testproject\pages\ContactPage.class

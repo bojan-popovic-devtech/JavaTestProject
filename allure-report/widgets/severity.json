@@ -1,0 +1,61 @@
+[ {
+  "uid" : "cd75ff83223cecf9",
+  "name" : "CanGoToISVPage",
+  "time" : {
+    "start" : 1560334851079,
+    "stop" : 1560334851095,
+    "duration" : 16
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "637e3659ba3172fb",
+  "name" : "CanGoToContactPage",
+  "time" : {
+    "start" : 1560334847846,
+    "stop" : 1560334851038,
+    "duration" : 3192
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "9c0eba000655877c",
+  "name" : "CanGoToCSPPage",
+  "time" : {
+    "start" : 1560334847651,
+    "stop" : 1560334847703,
+    "duration" : 52
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "eb9302f4a8bcf55a",
+  "name" : "CanGoToNewsPage",
+  "time" : {
+    "start" : 1560334851105,
+    "stop" : 1560334852844,
+    "duration" : 1739
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a6a9bd57f160952f",
+  "name" : "CanGoToMSPPage",
+  "time" : {
+    "start" : 1560334851101,
+    "stop" : 1560334851101,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "597db48ef808a7d0",
+  "name" : "CanGoToHomePage",
+  "time" : {
+    "start" : 1560334851052,
+    "stop" : 1560334851074,
+    "duration" : 22
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

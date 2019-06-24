@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [Test Suite Chrome]">
+  <parameter name="appURL" value="https://www.devtechgroup.com"/>
+  <parameter name="browserType" value="Chrome"/>
+  <test thread-count="5" verbose="0" name="Chrome Home Page Tests(failed)">
+    <classes>
+      <class name="com.packt.testproject.tests.HomePageTests">
+        <methods>
+          <include name="initialize"/>
+          <include name="CanGoToContactPage"/>
+          <include name="close"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.packt.testproject.tests.HomePageTests -->
+    </classes>
+  </test> <!-- Chrome Home Page Tests(failed) -->
+</suite> <!-- Failed suite [Test Suite Chrome] -->

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Test Suite Chrome" verbose="2">
+
+
+    <parameter name="appURL" value="https://www.devtechgroup.com" />
+    <parameter name="browserType" value="Chrome" />
+    <test name="Chrome Home Page Tests">
+        <classes>
+            <class name="com.packt.testproject.tests.HomePageTests" />
+        </classes>
+    </test>
+
+</suite>
