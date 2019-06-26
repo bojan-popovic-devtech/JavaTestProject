@@ -29,8 +29,8 @@ public class Browser {
         else if (browserName.equals("Chrome")) {
 
             ClassLoader classLoader = getClass().getClassLoader();
-            String path=  new File(classLoader.getResource("chromedriver.exe").getFile()).getPath();
-            System.setProperty("webdriver.chrome.driver", new File(classLoader.getResource("chromedriver.exe").getFile()).getPath().replace("%20", " "));
+            //String path=  new File(classLoader.getResource("chromedrivere").getFile()).getPath();
+            System.setProperty("webdriver.chrome.driver", new File(classLoader.getResource("chromedriver").getFile()).getPath().replace("%20", " "));
             //System.setProperty("webdriver.chrome.driver", "src/test/java/com/packt/testproject/driver/chromedriver.exe");
 
             ChromeOptions chromeOptions = new ChromeOptions();
