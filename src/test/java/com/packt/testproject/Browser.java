@@ -7,6 +7,8 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.firefox.FirefoxOptions;
 import org.openqa.selenium.interactions.Actions;
 
+import java.io.File;
+
 
 public class Browser {
 
@@ -15,7 +17,7 @@ public class Browser {
     public static Actions Action;
 
 
-    public static WebDriver SetBrowser (String browserName, String _baseUrl)
+    public WebDriver SetBrowser (String browserName, String _baseUrl)
     {
         if(browserName.equals("Firefox"))
         {
@@ -25,7 +27,11 @@ public class Browser {
             _webDriver.manage().window().maximize();
         }
         else if (browserName.equals("Chrome")) {
-            System.setProperty("webdriver.chrome.driver", "src/test/java/com/packt/testproject/driver/chromedriver.exe");
+
+            ClassLoader classLoader = getClass().getClassLoader();
+            String path=  new File(classLoader.getResource("chromedriver.exe").getFile()).getPath();
+            System.setProperty("webdriver.chrome.driver", new File(classLoader.getResource("chromedriver.exe").getFile()).getPath().replace("%20", " "));
+            //System.setProperty("webdriver.chrome.driver", "src/test/java/com/packt/testproject/driver/chromedriver.exe");
 
             ChromeOptions chromeOptions = new ChromeOptions();
             chromeOptions.addArguments("chrome.switches", "--disable-extensions", "test-type", "start-maximized");

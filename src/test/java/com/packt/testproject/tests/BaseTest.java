@@ -18,9 +18,7 @@ public class BaseTest {
     @BeforeTest
     public void initialize() {
 
-        driver = Browser.SetBrowser("Chrome", "https://www.devtechgroup.com");
-
-
+        driver = new Browser().SetBrowser("Chrome", "https://www.devtechgroup.com");
     }
 
     @AfterClass
