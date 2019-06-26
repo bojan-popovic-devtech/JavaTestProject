@@ -25,9 +25,12 @@ public class Browser {
             _webDriver.manage().window().maximize();
         }
         else if (browserName.equals("Chrome")) {
-            System.setProperty("webdriver.chrome.driver", "src\\test\\java\\com\\packt\\testproject\\driver\\chromedriver.exe");
+            System.setProperty("webdriver.chrome.driver", "src/test/java/com/packt/testproject/driver/chromedriver.exe");
+
             ChromeOptions chromeOptions = new ChromeOptions();
             chromeOptions.addArguments("chrome.switches", "--disable-extensions", "test-type", "start-maximized");
+            //chromeOptions.setBinary("src\\test\\java\\com\\packt\\testproject\\driver\\chromedriver.exe");
+
             _webDriver = new ChromeDriver(chromeOptions);
         }
 
