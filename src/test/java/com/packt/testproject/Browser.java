@@ -34,9 +34,10 @@ public class Browser {
             ChromeOptions chromeOptions = new ChromeOptions();
             chromeOptions.addArguments("chrome.switches", "--disable-extensions", "test-type", "start-maximized");
             chromeOptions.addArguments("--headless");
-            chromeOptions.addArguments("window-size=1200,1100");
+            chromeOptions.addArguments("window-size=1200,1100"); // No elements were visible
             chromeOptions.addArguments("--disable-gpu");
             chromeOptions.addArguments("--no-sandbox");
+            chromeOptions.addArguments("--disable-dev-shm-usage");
             //chromeOptions.setBinary("src\\test\\java\\com\\packt\\testproject\\driver\\chromedriver.exe");
 
             _webDriver = new ChromeDriver(chromeOptions);
