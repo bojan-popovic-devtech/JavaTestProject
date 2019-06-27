@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3567ba00-b05b-463e-80bb-f4a3906dc263" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/packt/testproject/Browser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/packt/testproject/Browser.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/packt/testproject/pages/ContactPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/packt/testproject/pages/ContactPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/packt/testproject/pages/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/packt/testproject/pages/HomePage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/packt/testproject/pages/NewsPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/packt/testproject/pages/NewsPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/packt/testproject/tests/HomePageTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/packt/testproject/tests/HomePageTests.java" afterDir="false" />
-    </list>
+    <list default="true" id="3567ba00-b05b-463e-80bb-f4a3906dc263" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -165,69 +159,6 @@
             <path>
               <item name="testproject" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaTestProject" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="testproject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaTestProject" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="testproject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaTestProject" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="testproject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaTestProject" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="testproject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaTestProject" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="testproject" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="testproject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaTestProject" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="testproject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaTestProject" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="testproject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaTestProject" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="testproject" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="testproject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaTestProject" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="testproject" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="testproject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaTestProject" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -473,9 +404,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="HomePageTests_CanGoToISVPage - 2019.06.27 at 14h 05m 17s.xml">
-      <configuration name="HomePageTests.CanGoToISVPage" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="HomePageTests_CanGoToISVPage - 2019.06.27 at 14h 06m 46s.xml">
       <configuration name="HomePageTests.CanGoToISVPage" configurationId="TestNG" />
     </history-entry>
@@ -503,10 +431,12 @@
     <history-entry file="HomePageTests - 2019.06.27 at 16h 19m 20s.xml">
       <configuration name="HomePageTests" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="HomePageTests - 2019.06.27 at 16h 24m 45s.xml">
+      <configuration name="HomePageTests" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1096" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -517,8 +447,8 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32985386" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32985386" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32985386" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32985386" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32985386" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49895614" visible="true" weight="0.24626866" />
