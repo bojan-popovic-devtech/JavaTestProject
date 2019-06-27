@@ -49,7 +49,7 @@ public class HomePageTests extends BaseTest {
     @Description("Go to CONTACT page")
     public void CanGoToContactPage(){
         homePage.GoToContactPage();
-        Assert.assertTrue(ContactPage.IsAt());
+        Assert.assertTrue(contactPage.IsAt());
     }
 
     @Test
@@ -57,7 +57,7 @@ public class HomePageTests extends BaseTest {
     @Description("Go to ISV page")
     public void CanGoToISVPage(){
         homePage.GoToISVPage();
-        Assert.assertTrue(SectorsPage.IsAtISVPage());
+        Assert.assertTrue(sectorsPage.IsAtISVPage());
     }
 
     @Test

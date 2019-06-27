@@ -41,6 +41,7 @@ public class HomePage extends Pages{
         return Browser.GetTitle().equals(PropertyValues.HomePageTitle);
     }
 
+    @Step ("Click on Contact Page menu item")
     public static void GoToContactPage()
     {
 
@@ -48,6 +49,7 @@ public class HomePage extends Pages{
        // return new ContactPage(driver);
     }
 
+    @Step ("Click on News menu item")
     public static void GoToNewsPage() {
         Browser.Action.moveToElement(aboutLink);
         newsLink.click();
@@ -63,17 +65,16 @@ public class HomePage extends Pages{
 
     @Step ("Click on CSP menu item")
     public static void GoToCSPPage() {
-       // Browser.Action.moveToElement(sectorsItems);
-        //Browser.Action.moveToElement(cspLink).click();
-        //cspLink.click();
+       Browser.Action.moveToElement(sectorsItems).perform();
+        Browser.Action.moveToElement(cspLink).perform();
+        cspLink.click();
         // return new NewsPage();
     }
-    @Step ("Click on ISV menu item")
+    @Step ("Click on MSP  menu item")
     public static void GoToMSPPAge() {
-       /* Browser.Action.moveToElement(sectorsItems);
-       /* mspLink.click();
-       @Step ("Click on ISV menu item")
-        */
+        Browser.Action.moveToElement(sectorsItems).perform();
+        Browser.Action.moveToElement(mspLink).perform();
+        mspLink.click();
         // return new NewsPage();*/
     }
 

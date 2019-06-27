@@ -2,43 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3567ba00-b05b-463e-80bb-f4a3906dc263" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/allure-results/1cc1a52e-5fc3-45aa-914d-184b196a3f86-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/20a6d000-fa46-4ed8-816c-640274226813-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/250eb6bb-bdac-4c0e-a892-cf942df023f1-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/250fdc52-6afb-47a8-8397-d53133740ec9-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/4dec0dbd-dc7f-4fa5-b340-309261ac30fc-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/4f4053c4-0a9e-4e19-8ba8-5f92095f5533-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/4ff2fc5b-9f99-4c5f-99ce-5cb3c25f0494-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/5c1e09f6-9fc6-4d94-8a76-9f89256857d5-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/64fc6427-24be-4164-b483-76353fee4e51-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/68d2f67b-b054-49de-8143-5ecd65a0d5f0-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/6ca933e9-90b8-497a-b74d-6dac98965674-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/6d397c63-206f-42a0-84a4-4b2f298ade9f-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/72777844-0e62-427f-ac67-5180158c741e-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/7c2400bc-09cf-4a37-897b-cb495d0a3e6b-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/84f62435-fa07-4018-b395-f0992e6cee9a-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/87d37f9d-128e-4eba-b45e-d81b40b33423-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/8e3a6bf6-4b94-41ef-91e7-45176965f03c-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/8ffab2c9-d010-4d19-988c-9e320aea98d0-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/9720064d-8e3c-4b75-b44e-58bea3f54d8e-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/b4da0100-f753-420c-bed7-627767ab11e8-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/b5c8ac38-c229-4d73-b0bf-9cae1dc00c7f-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/b5d48f6a-9da6-49af-a830-21ea62666f4f-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/b8d074a1-91da-45d4-9348-cb6b6c6a618f-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/c1e194c8-e562-4813-b15c-ced1623a9dbb-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/ce3d199a-6564-42d7-a6cb-3fd374894a96-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/d1fcfc59-bb61-4ff9-ba89-da7efd3e8ff3-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/d8980ed7-3c4e-4331-a424-ee45e4e1eedf-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/e45c745b-ab43-4f45-b488-1c000c4a3420-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/e6519c7a-b509-4779-91ce-54a124d646b8-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/f2cb362a-060b-4bdf-afe5-b082f203fddb-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/f5ec0c9f-d512-40ae-846e-0f0fb51dcb12-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/fdbccf4a-7992-4c8f-8f62-295eb41800e3-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/fdf6e466-fe7d-4d9d-978e-441e580a2f2e-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/fe7785d5-1e54-4b17-a3db-1bfbf9c80dbe-container.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/packt/testproject/Browser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/packt/testproject/Browser.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/packt/testproject/Browser.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/packt/testproject/Browser.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/packt/testproject/pages/ContactPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/packt/testproject/pages/ContactPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/packt/testproject/pages/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/packt/testproject/pages/HomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/packt/testproject/pages/NewsPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/packt/testproject/pages/NewsPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/packt/testproject/tests/HomePageTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/packt/testproject/tests/HomePageTests.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -57,23 +25,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="HomePageTests.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="HomePageTests.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/packt/testproject/tests/HomePageTests.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="560">
-              <caret line="55" column="4" selection-start-line="55" selection-start-column="4" selection-end-line="56" selection-end-column="34" />
+            <state relative-caret-position="339">
+              <caret line="48" column="38" lean-forward="true" selection-start-line="48" selection-start-column="38" selection-end-line="48" selection-end-column="38" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Invoker.class" pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.3/testng-6.14.3.jar!/org/testng/internal/Invoker.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="5100">
-              <caret line="343" selection-start-line="343" selection-end-line="343" />
             </state>
           </provider>
         </entry>
@@ -81,8 +40,8 @@
       <file leaf-file-name="HomePage.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/packt/testproject/pages/HomePage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="611">
-              <caret line="61" selection-start-line="61" selection-end-line="61" />
+            <state relative-caret-position="526">
+              <caret line="76" column="24" selection-start-line="76" selection-start-column="24" selection-end-line="76" selection-end-column="24" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -90,20 +49,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
+      <file leaf-file-name="ContactPage.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/packt/testproject/pages/ContactPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="68" column="53" lean-forward="true" selection-start-line="68" selection-start-column="53" selection-end-line="68" selection-end-column="53" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="testng.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/testng.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="13" selection-end-column="8" />
+            <state relative-caret-position="136">
+              <caret line="14" column="33" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -111,8 +61,8 @@
       <file leaf-file-name="NewsPage.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/packt/testproject/pages/NewsPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="8" column="34" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+            <state relative-caret-position="187">
+              <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="43" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -123,11 +73,20 @@
       <file leaf-file-name="SectorsPage.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/packt/testproject/pages/SectorsPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="17" column="31" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
+            <state relative-caret-position="391">
+              <caret line="27" column="4" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="42" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Pages.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/packt/testproject/pages/Pages.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="10" column="40" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
             </state>
           </provider>
         </entry>
@@ -144,11 +103,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Browser.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Browser.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/packt/testproject/Browser.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="383">
-              <caret line="38" column="64" lean-forward="true" selection-start-line="38" selection-start-column="64" selection-end-line="38" selection-end-column="64" />
+            <state relative-caret-position="179">
+              <caret line="32" column="108" selection-start-line="32" selection-start-column="108" selection-end-line="32" selection-end-column="108" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -172,16 +131,16 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/test/java/com/packt/testproject/pages/Pages.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/packt/testproject/pages/NewsPage.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/packt/testproject/pages/ContactPage.java" />
         <option value="$PROJECT_DIR$/testng.xml" />
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/test/java/com/packt/testproject/tests/HomePageTests.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/packt/testproject/pages/HomePage.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/packt/testproject/PropertyValues.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/packt/testproject/pages/SectorsPage.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/packt/testproject/tests/BaseTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/packt/testproject/Browser.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/packt/testproject/tests/HomePageTests.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/packt/testproject/pages/NewsPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/packt/testproject/pages/HomePage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/packt/testproject/pages/ContactPage.java" />
       </list>
     </option>
   </component>
@@ -216,7 +175,52 @@
               <item name="testproject" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaTestProject" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="testproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaTestProject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="testproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaTestProject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="testproject" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="testproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaTestProject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="testproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaTestProject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="testproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaTestProject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="testproject" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="testproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaTestProject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="testproject" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="testproject" type="b2602c69:ProjectViewProjectNode" />
@@ -251,7 +255,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.HomePageTests.CanGoToISVPage">
+  <component name="RunManager" selected="TestNG.HomePageTests">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -447,8 +451,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.HomePageTests.CanGoToISVPage" />
         <item itemvalue="TestNG.HomePageTests" />
+        <item itemvalue="TestNG.HomePageTests.CanGoToISVPage" />
         <item itemvalue="TestNG.C:/Users/bojan.popovic/.IdeaIC2018.1/system/temp-testng-customsuite.xml (1)" />
         <item itemvalue="TestNG.C:/Users/bojan.popovic/.IdeaIC2018.1/system/temp-testng-customsuite.xml" />
         <item itemvalue="TestNG.HomePageTests (1)" />
@@ -469,12 +473,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="HomePageTests_CanGoToISVPage - 2019.06.26 at 11h 00m 38s.xml">
-      <configuration name="HomePageTests.CanGoToISVPage" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="HomePageTests_CanGoToISVPage - 2019.06.26 at 11h 10m 16s.xml">
-      <configuration name="HomePageTests.CanGoToISVPage" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="HomePageTests_CanGoToISVPage - 2019.06.27 at 14h 05m 17s.xml">
       <configuration name="HomePageTests.CanGoToISVPage" configurationId="TestNG" />
     </history-entry>
@@ -499,6 +497,12 @@
     <history-entry file="HomePageTests_CanGoToISVPage - 2019.06.27 at 14h 19m 32s.xml">
       <configuration name="HomePageTests.CanGoToISVPage" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="HomePageTests - 2019.06.27 at 16h 17m 50s.xml">
+      <configuration name="HomePageTests" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="HomePageTests - 2019.06.27 at 16h 19m 20s.xml">
+      <configuration name="HomePageTests" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1096" extended-state="6" />
@@ -513,11 +517,11 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32985386" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32985386" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32985386" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32985386" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32985386" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49895614" visible="true" weight="0.24626866" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49895614" visible="true" weight="0.24626866" />
       <window_info id="Structure" order="1" sideWeight="0.50104386" side_tool="true" weight="0.23827292" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
@@ -591,14 +595,6 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/com/packt/testproject/pages/HomePage.java</url>
-          <line>57</line>
-          <properties />
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-      </breakpoints>
       <option name="time" value="12" />
     </breakpoint-manager>
   </component>
@@ -868,24 +864,10 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/packt/testproject/AppTest.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/packt/testproject/pages/Pages.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="40" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/allure-report/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="18" column="54" selection-start-line="18" selection-start-column="54" selection-end-line="18" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/packt/testproject/pages/ContactPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="2" selection-start-column="2" selection-end-column="2" />
         </state>
       </provider>
     </entry>
@@ -896,40 +878,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/testng.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="13" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/packt/testproject/pages/NewsPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="8" column="34" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.3/testng-6.14.3.jar!/org/testng/internal/Invoker.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5100">
-          <caret line="343" selection-start-line="343" selection-end-line="343" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/packt/testproject/pages/SectorsPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="17" column="31" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
@@ -937,20 +885,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/packt/testproject/pages/HomePage.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.3/testng-6.14.3.jar!/org/testng/internal/Invoker.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="611">
-          <caret line="61" selection-start-line="61" selection-end-line="61" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="533">
+          <caret line="343" selection-start-line="343" selection-end-line="343" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/packt/testproject/tests/HomePageTests.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/packt/testproject/Browser.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="560">
-          <caret line="55" column="4" selection-start-line="55" selection-start-column="4" selection-end-line="56" selection-end-column="34" />
+        <state relative-caret-position="179">
+          <caret line="32" column="108" selection-start-line="32" selection-start-column="108" selection-end-line="32" selection-end-column="108" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -967,10 +912,61 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/packt/testproject/Browser.java">
+    <entry file="file://$PROJECT_DIR$/testng.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="383">
-          <caret line="38" column="64" lean-forward="true" selection-start-line="38" selection-start-column="64" selection-end-line="38" selection-end-column="64" />
+        <state relative-caret-position="153">
+          <caret line="9" column="70" lean-forward="true" selection-start-line="9" selection-start-column="70" selection-end-line="9" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/packt/testproject/pages/Pages.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="10" column="40" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/packt/testproject/pages/SectorsPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="27" column="4" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/packt/testproject/pages/NewsPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/packt/testproject/pages/ContactPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="14" column="33" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/packt/testproject/pages/HomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="526">
+          <caret line="76" column="24" selection-start-line="76" selection-start-column="24" selection-end-line="76" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/packt/testproject/tests/HomePageTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="339">
+          <caret line="48" column="38" lean-forward="true" selection-start-line="48" selection-start-column="38" selection-end-line="48" selection-end-column="38" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
