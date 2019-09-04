@@ -7,6 +7,8 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.firefox.FirefoxOptions;
 import org.openqa.selenium.interactions.Actions;
 
+import java.io.File;
+
 
 public class Browser {
 
@@ -27,8 +29,8 @@ public class Browser {
         else if (browserName.equals("Chrome")) {
 
             ClassLoader classLoader = getClass().getClassLoader();
-            //String path=  new File(classLoader.getResource("chromedrivere").getFile()).getPath();
-           // System.setProperty("webdriver.chrome.driver", new File(classLoader.getResource("chromedriver").getFile()).getPath().replace("%20", " "));
+            //String path=  new File(classLoader.getResource("chromedriver").getFile()).getPath();
+            System.setProperty("webdriver.chrome.driver", new File(classLoader.getResource("chromedriver").getFile()).getPath().replace("%20", " "));
             System.setProperty("webdriver.chrome.driver", "/usr/bin/chromedriver");
 
             ChromeOptions chromeOptions = new ChromeOptions();
@@ -37,7 +39,7 @@ public class Browser {
             chromeOptions.addArguments("window-size=1200,1100"); // No elements were visible
             chromeOptions.addArguments("--disable-gpu");
             chromeOptions.addArguments("--no-sandbox");
-            chromeOptions.addArguments("--disable-dev-shm-usage");
+            chromeOptions.addArguments("--disable-dev-shm-usage"); //Pages crashed with this
             //chromeOptions.setBinary("src\\test\\java\\com\\packt\\testproject\\driver\\chromedriver.exe");
 
             _webDriver = new ChromeDriver(chromeOptions);
