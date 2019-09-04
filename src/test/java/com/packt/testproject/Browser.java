@@ -7,8 +7,6 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.firefox.FirefoxOptions;
 import org.openqa.selenium.interactions.Actions;
 
-import java.io.File;
-
 
 public class Browser {
 
@@ -30,8 +28,8 @@ public class Browser {
 
             ClassLoader classLoader = getClass().getClassLoader();
             //String path=  new File(classLoader.getResource("chromedriver").getFile()).getPath();
-            System.setProperty("webdriver.chrome.driver", new File(classLoader.getResource("chromedriver").getFile()).getPath().replace("%20", " "));
-            //System.setProperty("webdriver.chrome.driver", "/usr/bin/chromedriver");
+            //System.setProperty("webdriver.chrome.driver", new File(classLoader.getResource("chromedriver").getFile()).getPath().replace("%20", " "));
+            System.setProperty("webdriver.chrome.driver", "/usr/bin/chromedriver");
 
             ChromeOptions chromeOptions = new ChromeOptions();
             chromeOptions.addArguments("chrome.switches", "--disable-extensions", "test-type", "start-maximized");
